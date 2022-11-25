@@ -10,7 +10,6 @@ const CreateScreen = ({ navigation }) => {
             addBlogPost(title, content, () => navigation.navigate('Index'))
         }} />
     )
-
 };
 
 export default CreateScreen;
