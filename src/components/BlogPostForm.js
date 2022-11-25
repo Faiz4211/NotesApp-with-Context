@@ -40,7 +40,6 @@ BlogPostForm.defaultProps = {
     }
 }
 
-
 const styles = StyleSheet.create({
     input: {
         fontSize: hp(2),
